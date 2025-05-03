@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactappforfun/static/css/main.0a765baf.css",
-    "main.js": "/reactappforfun/static/js/main.6139f179.js",
+    "main.js": "/reactappforfun/static/js/main.6a1a59e1.js",
     "static/js/453.64512fd7.chunk.js": "/reactappforfun/static/js/453.64512fd7.chunk.js",
     "static/media/desktop_background.png": "/reactappforfun/static/media/desktop_background.7d3564724810939fb8f3.png",
     "static/media/tablet_background.png": "/reactappforfun/static/media/tablet_background.918e96bfed656fba46e3.png",
@@ -14,11 +14,11 @@
     "static/media/icons8-typescript.svg": "/reactappforfun/static/media/icons8-typescript.f20748caf2dac55710dd.svg",
     "static/media/html5-brands.svg": "/reactappforfun/static/media/html5-brands.ff5f9a64dc1432d829cb.svg",
     "main.0a765baf.css.map": "/reactappforfun/static/css/main.0a765baf.css.map",
-    "main.6139f179.js.map": "/reactappforfun/static/js/main.6139f179.js.map",
+    "main.6a1a59e1.js.map": "/reactappforfun/static/js/main.6a1a59e1.js.map",
     "453.64512fd7.chunk.js.map": "/reactappforfun/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a765baf.css",
-    "static/js/main.6139f179.js"
+    "static/js/main.6a1a59e1.js"
   ]
 }
