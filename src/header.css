@@ -1,0 +1,89 @@
+
+.headerCont {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333333;
+    color: #f0f0f0;
+}
+
+.headerCont h1{
+text-transform: uppercase;
+}
+
+.headerCont div {
+    display: flex;
+    margin-left: 5px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.headerCont nav {
+  margin-right: 5px;
+}
+
+.headerCont li {
+    background-size: 2rem 2rem; 
+    background-repeat: no-repeat;
+    background-position: left center; 
+    padding-left: 2.5rem; 
+    padding-bottom: 0.5rem;
+    list-style: none;
+  }
+  
+
+  .headerCont li:first-child {
+    background-image: url('./house-solid.svg');
+  }
+  
+  .headerCont  li:nth-child(2) {
+    background-image: url('./html5-brands.svg');
+  }
+  
+  .headerCont li:nth-child(3) {
+    background-image: url('./css-brands.svg');
+  }
+  
+  .headerCont li:nth-child(4) {
+    background-image: url('./js-brands.svg');
+  }
+
+  .headerCont li:nth-child(5) {
+    background-image: url('./react-brands.svg');
+  }
+  
+  .headerCont li:last-child {
+    background-image: url('./icons8-typescript.svg');
+  }
+
+  .linkStyle {
+    text-decoration: none;
+    color: #f0f0f0;
+  }
+
+  .linkActive {
+    color: red;
+    background-image: none;
+  }
+
+  .buttonActive {
+    all: unset;
+    font-size: 1.5rem;
+    cursor: pointer; 
+    background-color: grey;
+    color: #000000;
+  }
+
+  .button {
+    all: unset;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+
+@media (max-width: 400px) {
+  h1 {
+    display: none;
+  }
+}
