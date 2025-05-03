@@ -20,7 +20,7 @@ function App() {
  
 
   return (
-    <Router>
+    <Router basename="/reactappforfun">
       <header className='headerCont'>
         <div>
         {textForButton.map(item => (
